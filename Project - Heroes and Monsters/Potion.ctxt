@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=potency\ map_width\ map_length
+comment1.target=Potion(int,\ int,\ int)
+comment2.params=potency
+comment2.target=Potion(int)
+comment3.params=
+comment3.target=void\ resetCoord()
+comment4.params=
+comment4.target=int\ getX()
+comment5.params=
+comment5.target=int\ getY()
+comment6.params=
+comment6.target=java.lang.String\ getType()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

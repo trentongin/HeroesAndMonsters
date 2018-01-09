@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Sword
+comment1.params=map_width\ map_length\ swordName\ dmgMin\ dmgMax
+comment1.target=Sword(int,\ int,\ java.lang.String,\ int,\ int)
+comment2.params=swordName\ dmgMin\ dmgMax
+comment2.target=Sword(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=int\ getDmgMin()
+comment4.params=
+comment4.target=int\ getDmgMax()
+comment5.params=
+comment5.target=void\ resetCoord()
+comment6.params=
+comment6.target=int\ getX()
+comment7.params=
+comment7.target=int\ getY()
+comment8.params=
+comment8.target=java.lang.String\ getName()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

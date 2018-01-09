@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Townsperson
+comment1.params=quote1\ quote2\ map_width\ map_length\ threshold\ deadMonsters\ itemHeld
+comment1.target=Townsperson(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.Object)
+comment2.params=deadMonsters
+comment2.target=java.lang.String\ getQuote(int)
+comment3.params=
+comment3.target=int\ getThreshold()
+comment4.params=
+comment4.target=java.lang.Object\ getItem()
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=
+comment7.target=void\ resetCoord()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
